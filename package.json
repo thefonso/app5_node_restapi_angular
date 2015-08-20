@@ -1,0 +1,16 @@
+{
+  "name": "node_api_app",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "server.js",
+  "author": "alfonso",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.12.4",
+    "express": "^4.12.3",
+    "jsonwebtoken": "^5.0.1",
+    "mongoose": "^4.0.2",
+    "morgan": "^1.5.3"
+  }
+}
